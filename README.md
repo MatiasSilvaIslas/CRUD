@@ -23,7 +23,7 @@ La API REST de Automóviles aún no ha sido desplegada, pero se planea hacerlo u
 Se planea utilizar Swagger para documentar la API REST de Automóviles. 
 
 ## Pruebas unitarias
-Se han implementado pruebas unitarias utilizando JUnit para asegurar la funcionalidad correcta de la API REST de Automóviles.
+Se planea implementar pruebas unitarias utilizando JUnit para asegurar la funcionalidad correcta de la API.
 
 ## Instrucciones de ejecución local
 Para ejecutar la API REST de Automóviles en tu entorno local, sigue los siguientes pasos:

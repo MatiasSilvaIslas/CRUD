@@ -28,8 +28,8 @@ Se han implementado pruebas unitarias utilizando JUnit para asegurar la funciona
 ## Instrucciones de ejecución local
 Para ejecutar la API REST de Automóviles en tu entorno local, sigue los siguientes pasos:
 
-. Clona el repositorio.
-. Importa el proyecto en tu IDE de preferencia.
-. Configura la conexión a la base de datos MySQL en el archivo de configuración de la aplicación.
-. Ejecuta la aplicación desde tu IDE o utilizando el comando mvn spring-boot:run en la carpeta del proyecto.
-. Accede a la API REST de Automóviles en http://localhost:puerto en tu navegador o a través de herramientas como Postman.
+1. Clona el repositorio.
+2. Importa el proyecto en tu IDE de preferencia.
+3. Configura la conexión a la base de datos MySQL en el archivo de configuración de la aplicación.
+4. Ejecuta la aplicación desde tu IDE o utilizando el comando mvn spring-boot:run en la carpeta del proyecto.
+5. Accede a la API REST de Automóviles en http://localhost:puerto en tu navegador o a través de herramientas como Postman.
